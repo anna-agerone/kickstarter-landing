@@ -1,3 +1,11 @@
-body {
-  margin: 0;
-}
+@import 'utils';
+@import './blocks/page';
+@import './blocks/header';
+@import './blocks/menu-aside';
+@import './blocks/benefits';
+@import './blocks/presentation';
+@import './blocks/about-us';
+@import './blocks/testimonials';
+@import './blocks/features';
+@import './blocks/questions';
+@import './blocks/footer';
